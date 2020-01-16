@@ -12,8 +12,8 @@ public class Calculator  extends HttpServlet{
 	{
 		int  i =Integer.parseInt(req.getParameter("num1"));
 		int  j= Integer.parseInt(req.getParameter("num2"));
-		
-		res.getWriter().println(i+j);
+		int c=i+j;
+		res.getWriter().println("Result is " + c);
 		
 		
 	}
