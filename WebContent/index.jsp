@@ -7,7 +7,7 @@
 <title>Calculator for DevOps</title>
 </head>
 <body>
-<form action="add" method="POST" >
+<form action="add" method="POST" border=1pxl>
 Enter First No :<input type="text" name="num1"> </input> <br>
 Enter Second No:<input type="text" name="num2"> </input><br>
 <input type="submit" />
