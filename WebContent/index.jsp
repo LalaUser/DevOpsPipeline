@@ -5,11 +5,15 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Calculator for DevOps</title>
+<link href=" css/loginstyle.css" rel="stylesheet" type="text/css">
 </head>
+
+
 <body>
-<form action="add" method="POST" border=1pxl>
-Enter First No :<input type="text" name="num1"> </input> <br>
-Enter Second No:<input type="text" name="num2"> </input><br>
+
+<form action="add" method="POST" class="formclass">
+Enter First No   :<input type="text" name="num1" />  <br>
+Enter Second No:<input type="text" name="num2" /> <br>
 <input type="submit" />
 </form>
 </body>
