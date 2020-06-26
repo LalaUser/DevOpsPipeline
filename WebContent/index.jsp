@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Calculator for DevOps1</title>
+<title>Calculator for DevOps</title>
 <link href=" css/loginstyle.css" rel="stylesheet" type="text/css">
 </head>
 
