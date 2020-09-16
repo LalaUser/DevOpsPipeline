@@ -13,9 +13,14 @@ public class Calculator  extends HttpServlet{
 		int  i =Integer.parseInt(req.getParameter("num1"));
 		int  j= Integer.parseInt(req.getParameter("num2"));
 		int c=i+j;
-		res.getWriter().println("  Here Result is :  " + c);
+		res.getWriter().println("  For Thailand Friends :  Result is :  " + c);
 		
 		
+	}
+	
+	public void TestFunction()
+	{
+		System.out.println("Test Function");
 	}
 
 }
