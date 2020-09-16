@@ -4,15 +4,15 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Calculator for Training Session</title>
+<title>Calculator Application</title>
 <link href=" css/loginstyle.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
 
 <form action="add" method="POST" class="formclass">
-Enter First No   :<input type="text" name="num1" />  <br>
-Enter Second No:<input type="text" name="num2" /> <br>
+Enter First Number   :<input type="text" name="num1" />  <br>
+Enter Second Number:<input type="text" name="num2" /> <br>
 <input type="submit" />
 </form>
 </body>
